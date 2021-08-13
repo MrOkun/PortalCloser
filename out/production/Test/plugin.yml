@@ -1,0 +1,6 @@
+name: PortalCloser
+version: 1.1
+author: MrOkun
+main: com.okun.portalCloser.PortalCloser
+api-version: 1.17
+dependencies: xyz.xenondevs:particle:1.6.4
